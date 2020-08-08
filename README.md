@@ -30,7 +30,7 @@ Durante o evento Next Level Week #2, foi desenvolvido a projeto Proffy, que é u
 
 O projeto está sendo desenvolvido na [Next Level Week 2](https://nextlevelweek.com/episodios/omnistack/1/edicao/2). Uma plataforma de estudos online que visa conectar alunos e professores de forma rápida e fácil.
 
-##Motivo
+## Motivo
 
 Desenvolvimento do projeto Next Level Week, desenvolvido pela Rocketseat.
 
@@ -82,7 +82,7 @@ Para instalar e startar a plataforma Proffy, use `npm` ou `yarn`:
 Primeiro, clone o repositório para seu ambiente:
 
 ```bash
-> git clone https://github.com/matheusfelipeog/proffy.git 
+> git clone https://github.com/shyoutarou/proffy.git 
 ```
 
 Depois, entre no repositório clonado e no diretório correspondente ao que quer testar (web, server).
@@ -122,7 +122,7 @@ Será startado em `http://localhost:5000`
 
 Siga os passos abaixo para contribuir:
 
-1. Faça o *fork* do projeto (<https://github.com/matheusfelipeog/proffy>)
+1. Faça o *fork* do projeto (<https://github.com/shyoutarou/proffy>)
 
 2. Clone o seu *fork* para sua maquína (`git clone https://github.com/user_name/proffy.git`)
 
