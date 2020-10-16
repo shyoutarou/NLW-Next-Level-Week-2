@@ -122,9 +122,9 @@ Será startado em `http://localhost:5000`
 
 Siga os passos abaixo para contribuir:
 
-1. Faça o *fork* do projeto (<https://github.com/shyoutarou/proffy>)
+1. Faça o *fork* do projeto (<https://github.com/shyoutarou/NLW-Next-Level-Week.git>)
 
-2. Clone o seu *fork* para sua maquína (`git clone https://github.com/user_name/proffy.git`)
+2. Clone o seu *fork* para sua maquína (`git clone https://github.com/user_name/NLW-Next-Level-Week.git`)
 
 3. Crie uma *branch* para realizar sua modificação (`git checkout -b feature/name_new_feature`)
 
