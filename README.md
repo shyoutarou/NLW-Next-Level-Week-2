@@ -82,7 +82,7 @@ Para instalar e startar a plataforma Proffy, use `npm` ou `yarn`:
 Primeiro, clone o repositório para seu ambiente:
 
 ```bash
-> git clone https://github.com/shyoutarou/proffy.git 
+> git clone https://github.com/shyoutarou/NLW-Next-Level-Week-2 
 ```
 
 Depois, entre no repositório clonado e no diretório correspondente ao que quer testar (web, server).
